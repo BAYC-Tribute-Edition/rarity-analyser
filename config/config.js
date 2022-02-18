@@ -9,7 +9,7 @@ const config = {
     ignore_traits: ['date'], 
     sqlite_file_name: 'database.bayct.db',
     ga: 'G-BW69Z04YTP',
-    main_og_image: 'https://lh3.googleusercontent.com/kWdK4fVU2WpsnkB4uKzg5MMwrybN0jlJ7RFraDcTji2qKeC60BJTBIXTO83wMo7yKc0hrMHz63kLd1y4t_wr8iWL1xoZjVu8nVpF=w600',
+    main_og_image: 'https://imgur.com/a/OZq1Bky',
     item_path_name: 'bayct',
     page_item_num: 50,
     content_image_is_video: false,
